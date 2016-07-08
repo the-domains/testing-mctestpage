@@ -1,14 +1,14 @@
-layout_spectrum: 0.30819992907345295
-typography_spectrum: 0.053818826330825686
+layout_spectrum: 0.3148832677397877
+typography_spectrum: 0.39145085914060473
 color:
   brandStrength: 0.4188111610710621
   lightness: 0.12275552796199918
   saturation: 0.14806216303259134
   rhythmicContrast: 0.4840082162991166
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
 name: Testing McTestPage
